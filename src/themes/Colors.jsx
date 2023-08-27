@@ -1,0 +1,15 @@
+export const Colors = {
+  White: "#FFFFFF",
+  SecondWhite: "#F5F5F5",
+  Black: "#333333",
+  Grey: "#747474",
+  GreyBlur: "#F9F9F9",
+  LightGrey: "#949494",
+  Border: "#DEDEDE",
+  Placeholder: "#888888",
+  Green: "#94AF9F",
+  GreenBlur: "rgba(148, 175, 159, 0.4)",
+  Modal: "rgba(0, 0, 0, 0.5)",
+  ModalDark: "rgba(0, 0, 0, 0.7)",
+  DarkGreen: "#164C46",
+};
